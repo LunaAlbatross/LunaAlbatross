@@ -1,124 +1,122 @@
-<!-- Header Section -->
-<h1 align="center">
-  Hi there, I'm Kowshik T! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="30px">
-</h1>
+<!-- Epic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kowshik%20T&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Security%20Engineering%20Student%20|%20Backend%20Developer&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
   <a href="https://github.com/LunaAlbatross">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=27E8A7&center=true&vCenter=true&width=600&lines=Cyber+Security+Student+🛡️;Network+Security+Enthusiast+🌐;Backend+Developer+💻;Always+Learning+%26+Exploring+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=27E8A7&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);echo+%22I+am+a+Cyber+Security+Student%22;while(alive)+{+hack();+learn();+build();+}" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LunaAlbatross&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=LunaAlbatross&label=PROFILE+VIEWS&color=27E8A7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" align="right" alt="Hacker GIF">
-</div>
-
-- 🎓 **Cyber Security Student** at **Sri Shakthi Institute of Engineering & Technology**, Coimbatore, India.
-- 🔐 Deeply passionate about **Cybersecurity, Network Security, and Backend Development**.
-- 🛠️ I love building secure, data-driven applications and exploring cutting-edge network architectures.
-- 🌱 Currently diving deeper into **System Exploitation, Threat Management, and Autonomous Agents**.
-- 💬 Ask me about **Python, Flask, Networking, or Fortigate Firewalls**.
-- ⚡ Fun fact: *"Security is not a product, it’s a process."*
-
----
-
-### 🛠️ Skills & Technologies
-
-<details>
-  <summary><b>💻 Programming & Scripting</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>🌐 Networking & Security</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>⚙️ Frameworks & Databases</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>☁️ DevOps & Infrastructure</b></summary>
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h2>👨‍💻 About Me </h2>
+      <p align="left">
+        🎓 <b>Cyber Security Student</b> at <i>Sri Shakthi Institute of Engineering & Technology</i><br><br>
+        🔐 Deeply passionate about <b>Cybersecurity, Networking, and Backend Development</b>.<br><br>
+        🛡️ Building secure, data-driven applications & exploring segmented network architectures.<br><br>
+        🚀 Currently diving into <b>Autonomous Agents, Threat Management, and System Exploitation</b>.<br><br>
+        ⚡ Fun fact: <i>"There is no patch for human stupidity."</i> - Kevin Mitnick
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <!-- Fun GIF: Cat typing furiously -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThxaDgzMTI3aWMyZDB1ZDcxcmxnbHhwbnZxbHN0bnl3bm9tcnh5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" alt="Hacking Cat GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">🔥 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunaAlbatross&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaAlbatross&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunaAlbatross&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=LunaAlbatross&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
-| Project | Description | Tech Stack |
+<p align="center">
+  <i>Programming & Scripting</i><br>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,c,cpp&theme=dark" /><br><br>
+  <i>Networking, Security & OS</i><br>
+  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,debian&theme=dark" /><br><br>
+  <i>DevOps, DB & Frameworks</i><br>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,mysql,flask,kafka,git&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Analytics</h2>
+
+<p align="center">
+  <!-- Replaced the broken github-readme-stats with summary cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaAlbatross&theme=tokyonight" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaAlbatross&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaAlbatross&theme=tokyonight" alt="Profile Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunaAlbatross&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaAlbatross&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🚀 Epic Projects</h2>
+
+<div align="center">
+
+| 🛡️ Project | 📝 Description | 💻 Tech Stack |
 |:---|:---|:---|
-| 🛡️ **Automated Web App Firewall** | Real-time signature-based threat mitigation with Global Panic Mode and IP quarantine. | `Python`, `Flask` |
-| 🚨 **Incident Management System** | Track, prioritize, and automate the resolution of security incidents effectively. | `Python`, `Flask` |
-| 🔗 **URLs Threat Management** | Dashboard that collects, parses, and blocks malicious URLs at the system level. | `Python`, `Flask` |
-| 🦠 **Capy Malware Tool** | Static analysis utility for binary fingerprints, hashing, and signature detection. | `Python` |
-| 🐛 **BugTracker** | Full-featured bug tracking system with real-time status updates and collaboration. | `Python`, `Flask` |
-| 🌐 **OSI Network Simulator** | Visualizes packet travel through the OSI layers across complex network topologies. | `JavaScript` |
+| **Automated WAF** | Real-time signature-based threat mitigation with Global Panic Mode. | `Python`, `Flask` |
+| **Incident Management System** | Track, prioritize, and automate the resolution of security incidents. | `Python`, `Flask` |
+| **URLs Threat Management** | Dashboard that collects, parses, and blocks malicious URLs at system level. | `Python`, `Flask` |
+| **Capy Malware Tool** | Static analysis utility for binary fingerprints & signature detection. | `Python` |
+| **BugTracker** | Full-featured bug tracking system with real-time status updates. | `Python`, `Flask` |
+| **OSI Network Simulator** | Visualizes packet travel through OSI layers across complex topologies. | `JavaScript` |
+
+</div>
 
 ---
 
-### 📜 Certifications
+<h2 align="center">📜 Certifications & Achievements</h2>
+
+<div align="center">
 
 | 🏆 Certification | 🏢 Issuer | 📅 Date |
 |:---|:---|:---|
 | **ISC2 Certified in Cyber Security** | ISC2 | Nov 2024 |
-| **NPTEL – Google Cloud Foundation** | IIT Kharagpur | Oct 2024 |
 | **HackQuest 2k25 CTF** | CyberHeals Academy | Feb 2025 |
+| **NPTEL – Google Cloud Foundation** | IIT Kharagpur | Oct 2024 |
+
+</div>
 
 ---
 
-### 📫 Let's Connect!
+<h2 align="center">📫 Initiate Secure Connection</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kowshik-thiruppathi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discordapp.com/users/1396879527379992597">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:kowshikthiruppathi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/kowshik-thiruppathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://discordapp.com/users/1396879527379992597"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:kowshikthiruppathi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/LunaAlbatross"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:27E8A7,100:0e75b6&height=150&section=footer&text=Stay%20Secure!&fontColor=ffffff&fontSize=24&animation=fadeIn" width="100%" alt="Footer Banner" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
