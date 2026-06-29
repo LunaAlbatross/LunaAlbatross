@@ -60,6 +60,11 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
+  <!-- Comprehensive GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/LunaAlbatross?base=header,activity,community,repositories,metadata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&plugin_achievements=yes&plugin_achievements_display=detailed&plugin_habits=yes&plugin_habits_charts=yes&config_timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%" />
+</p>
+
+<p align="center">
   <!-- Replaced the broken github-readme-stats with summary cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaAlbatross&theme=tokyonight" alt="Profile Details" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaAlbatross&theme=tokyonight" alt="Top Languages" width="48%" />
