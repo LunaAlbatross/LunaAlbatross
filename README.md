@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/LunaAlbatross">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=27E8A7&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);echo+%22I+am+a+Cyber+Security+Student%22;while(alive)+{+hack();+learn();+build();+}" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=27E8A7&center=true&vCenter=true&width=800&lines=%3E+nmap+-sV+-p-+LunaAlbatross;%5B%2B%5D+Discovering+open+ports...;%5B%2B%5D+Port+80%3A+Backend+APIs+operational;%5B%2B%5D+Port+443%3A+Secure+architectures+deployed;%5B%2B%5D+Target+acquired.+Ready+to+hack!" alt="Typing SVG" />
   </a>
 </p>
 
