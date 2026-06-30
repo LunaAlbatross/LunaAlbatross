@@ -7,10 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LunaAlbatross&label=PROFILE+VIEWS&color=27E8A7&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 <table align="center">
@@ -48,36 +44,11 @@
 
 <p align="center">
   <i>Programming & Scripting</i><br>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,c,cpp&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,bash&theme=dark" /><br><br>
   <i>Networking, Security & OS</i><br>
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,debian&theme=dark" /><br><br>
   <i>DevOps, DB & Frameworks</i><br>
   <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,mysql,flask,kafka,git&theme=dark" />
-</p>
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <!-- Comprehensive GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/LunaAlbatross?base=header,activity,community,repositories,metadata&plugin_isocalendar=yes&plugin_isocalendar_duration=half-year&plugin_achievements=yes&plugin_achievements_display=detailed&plugin_habits=yes&plugin_habits_charts=yes&config_timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Replaced the broken github-readme-stats with summary cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LunaAlbatross&theme=tokyonight" alt="Profile Details" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LunaAlbatross&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LunaAlbatross&theme=tokyonight" alt="Profile Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunaAlbatross&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunaAlbatross&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
