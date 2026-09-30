@@ -1,5 +1,5 @@
 <!-- Epic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kowshik%20T&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Security%20Engineering%20Student%20|%20Backend%20Developer&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Kowshik%20T&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Security%20Engineering%20Student%20&descAlignY=55&descAlign=50" width="100%" />
 
 <p align="center">
   <a href="https://github.com/LunaAlbatross">
